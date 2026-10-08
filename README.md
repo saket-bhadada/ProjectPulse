@@ -1,4 +1,4 @@
-# 📊 Project Management System
+# 📊 ProjectPulse
 
 A comprehensive project management platform with real-time collaboration features, user authentication, and project tracking capabilities.
 
@@ -28,7 +28,7 @@ The platform is built around a streamlined workflow connecting project owners wi
 ## 🏗️ Architecture
 
 ```text
-Project Management System
+ProjectPulse
 ├── client/          (React + Vite Frontend)
 │   └── Features: Login, Profile, Dashboard, Applications, Chat, Workspace (File Management)
 └── server/          (Express Backend)
@@ -66,7 +66,8 @@ Project Management System
 1. **Clone and navigate to project root:**
 
 ```powershell
-cd project-management-system
+git clone https://github.com/saket-bhadada/ProjectPulse.git
+cd ProjectPulse
 ```
 
 2. **Install dependencies:**
